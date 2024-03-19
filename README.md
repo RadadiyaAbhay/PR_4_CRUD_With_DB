@@ -4,11 +4,11 @@
 1. git clone <a href="https://github.com/RadadiyaAbhay/PR_4_CRUD_With_DB.git">https://github.com/RadadiyaAbhay/PR_4_CRUD_With_DB.git </a>
 </p>
 <p>
-2.cd PR_4_CRUD_With_DB.git
+2. cd PR_4_CRUD_With_DB.git
 </p>
 <p>
-3.npm install
+3. npm install
 </p>
 <p>
-4.node ./index.js
+4. node ./index.js
 </p>
