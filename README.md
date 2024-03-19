@@ -4,7 +4,7 @@
 1. git clone <a href="https://github.com/RadadiyaAbhay/PR_4_CRUD_With_DB.git">https://github.com/RadadiyaAbhay/PR_4_CRUD_With_DB.git </a>
 </p>
 <p>
-2. cd PR_4_CRUD_With_DB.git
+2. cd PR_4_CRUD_With_DB
 </p>
 <p>
 3. npm install
